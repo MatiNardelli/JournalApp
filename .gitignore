@@ -1,7 +1,7 @@
-node_modules
+helpers
+middleware
 
+
+node_modules
 .env
 
-helpers
-
-middleware
